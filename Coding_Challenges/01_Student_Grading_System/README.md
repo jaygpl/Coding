@@ -22,7 +22,7 @@ This program gives the user the option to input their score out of 100 on a test
 **3.** Thirdly the user inserts their score, and are shown the given grade for that specific score.
 
 ## Requirements
-- Python 3.x or later generation
+e
 
 
 ```bash

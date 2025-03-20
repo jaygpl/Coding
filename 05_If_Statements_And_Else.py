@@ -17,7 +17,7 @@ else:
 print()
 deepVoice = input("Do you have a deep musty voice?: ")
 if deepVoice == "No":
-    print("Then you're defintely not Korg.")
+    print("Then you're for sure not Korg.")
 else:
     print("You might be Korg..")
     
