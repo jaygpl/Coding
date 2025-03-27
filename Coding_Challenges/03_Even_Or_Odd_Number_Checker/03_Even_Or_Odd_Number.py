@@ -1,7 +1,7 @@
 #---------------------------------------------------------------------------------
 # Program Name: Even or Odd Number Checker
 # Purpose: This program allows the user to type in a number and uses the data to determine if the numbe that is typed in is either even or odd.
-# Creator: Jayden Gopaul
+# Creator: Jayden
 # Student #: 754789
 # Date: Mar. 3, 2025
 #---------------------------------------------------------------------------------

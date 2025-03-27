@@ -1,7 +1,7 @@
 #---------------------------------------------------------------------------------
 # Program Name: Day of the Week Activity Recommender
 # Purpose: This program will tell the user what activity they should do based on the day of week it is.
-# Creator: Jayden Gopaul
+# Creator: Jayden
 # Student #: 754789
 # Date: Mar. 4, 2025
 #--------------------------------------------------------------------------------

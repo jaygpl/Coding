@@ -1,7 +1,7 @@
 #-----------------------------------------------------------------
 # Program Name: Student Grading System
 # Purpose: This program takes the score out of 100 from students, and shows what their grade is for that score.
-# Creator: Jayden Gopaul
+# Creator: Jayden
 # Student #: 754789
 # Date: Feb. 25, 2025
 #-----------------------------------------------------------------

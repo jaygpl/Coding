@@ -1,7 +1,7 @@
 #---------------------------------------------------------------------------------
 # Program Name: Voting Eligibility Checker
 # Purpose: This program will inform the user whether they are eligible or not to vote based on their age.
-# Creator: Jayden Gopaul
+# Creator: Jayden
 # Student #: 754789
 # Date: Mar. 3, 2025
 #--------------------------------------------------------------------------------

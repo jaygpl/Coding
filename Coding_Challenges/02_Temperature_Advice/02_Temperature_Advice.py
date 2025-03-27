@@ -1,7 +1,7 @@
 #-----------------------------------------------------------------------------------
 # Program Name: Temperature Advice
 # Purpose: This program suggests the user on what they should wear, based off the temperature that is around you.
-# Creator: Jayden Gopaul
+# Creator: Jayden
 # Student #: 754789
 # Date: Feb. 27, 2025
 #-----------------------------------------------------------------------------------

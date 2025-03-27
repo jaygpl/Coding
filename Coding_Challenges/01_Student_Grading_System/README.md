@@ -5,7 +5,7 @@ The student grading system gives the student a grade from A - F based on their s
 
 ## Creator
 
-- **Name:** Jayden Gopaul
+- **Name:** Jayden
 - **Student Number:** 754789
 - **Date:** Feb. 25, 2025
 
