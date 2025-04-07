@@ -11,6 +11,6 @@ fruits = ("apple", "banana", "apple", "cherry", "banana", "apple")
 # This will ask the user to enter a fruit name
 fruit_name = input("Enter a fruit name: ")
 
-# This will count occurrences and print the results
+# This will count occurrences and print the results 
 count = fruits.count(fruit_name)
 print(f"'{fruit_name}' appears {count} times in the tuple.")
